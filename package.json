@@ -1,0 +1,29 @@
+{
+  "author": "author.email@domain.com",
+  "name": "Project_Name",
+  "description": "Package description",
+  "version": "1.5.4",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.10 || 0.8 || 0.9"
+  },
+  "scripts": {
+    "start": "brunch watch --server",
+    "test": "brunch test"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.1",
+    "clean-css-brunch": ">= 1.0 < 1.6",
+    "css-brunch": ">= 1.0 < 1.6",
+    "font-awesome": "^4.2.0",
+    "javascript-brunch": ">= 1.0 < 1.6",
+    "less-brunch": "1.5.1",
+    "uglify-js-brunch": ">= 1.0 < 1.6",
+    "underscore-brunch": "1.4.0"
+  },
+  "devDependencies": {}
+}
