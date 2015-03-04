@@ -1,7 +1,5 @@
 #Brunch With BackBacon
 
-![Imgur](http://i.imgur.com/FBMmH2p.png?1)
-
 > Better known as brunch with bare backbone, underscore, jst, bootstrap and font awesome
 
 Simply put this is the barebone install for an AMD backbone app using
@@ -10,6 +8,6 @@ Simply put this is the barebone install for an AMD backbone app using
 - [x] Bootstrap
 - [x] Font Awesome
 
-
+![Imgur](http://i.imgur.com/FBMmH2p.png?1)
 
 Thanks to the inspiration of  [brunch-with-underscore-js-less](https://github.com/davidfregoli/brunch-with-underscore-js-less)
