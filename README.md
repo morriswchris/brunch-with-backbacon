@@ -1,6 +1,7 @@
+#Brunch With BackBacon
+
 ![Imgur](http://i.imgur.com/FBMmH2p.png?1)
 
-#Brunch With BackBacon
 > Better known as brunch with bare backbone, underscore, jst, bootstrap and font awesome
 
 Simply put this is the barebone install for an AMD backbone app using
